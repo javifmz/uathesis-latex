@@ -36,7 +36,7 @@
 % Inherit from book class
 % ----------------------------------------------
 
-\LoadClass{book}
+\LoadClass[a4paper]{book}
 
 % ----------------------------------------------
 % Packages
